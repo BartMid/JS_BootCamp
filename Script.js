@@ -15,3 +15,18 @@ var fourteen = 14;
 var fifteen = 15;
 var sixteen = true;
 var seventeen = "Kevin de Staat";
+
+var d = new Date();
+one = "one";
+two = "two";
+twelve = "12";
+
+console.log(one);
+console.log(typeof(one));
+
+console.log(three + four);
+console.log(five + two);
+console.log(seventeen + sixteen);
+console.log(elevem + twelve);
+
+console.log(typeof(two));
